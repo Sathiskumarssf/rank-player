@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/players-ranking/static/css/main.a13cad34.css",
+    "main.js": "/players-ranking/static/js/main.0485697a.js",
+    "static/js/787.37d37acd.chunk.js": "/players-ranking/static/js/787.37d37acd.chunk.js",
+    "index.html": "/players-ranking/index.html",
+    "main.a13cad34.css.map": "/players-ranking/static/css/main.a13cad34.css.map",
+    "main.0485697a.js.map": "/players-ranking/static/js/main.0485697a.js.map",
+    "787.37d37acd.chunk.js.map": "/players-ranking/static/js/787.37d37acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13cad34.css",
+    "static/js/main.0485697a.js"
+  ]
+}
